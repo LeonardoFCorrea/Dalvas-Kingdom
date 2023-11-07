@@ -1,6 +1,7 @@
 # Dalva's Kingdom
 
 ### Dalva's Kingdom Banner
+![Dalva's Kingdom Banner](Dalvas-Kingdom/Dalva_Logo2.png)
 
 ## Introduction
 Welcome to the GitHub repository for "Dalva's Kingdom," a captivating 2D indie platform game developed within the Unity game engine. This repository serves as a hub for all things related to the game, including source code, assets, documentation, and more.
