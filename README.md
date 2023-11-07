@@ -21,7 +21,7 @@ Welcome to the GitHub repository for "Dalva's Kingdom," a captivating 2D indie p
 - Original Soundtrack: Immerse yourself in the enchanting world of Dalva's Kingdom with an original soundtrack that complements the game's atmosphere and enhances the player's emotional connection with the story.
 
 ## Installation
-###To play "Dalva's Kingdom," follow these steps:
+### To play "Dalva's Kingdom," follow these steps:
 - Clone this repository to your local machine using git clone https://github.com/yourusername/Dalvas-Kingdom.git or download with zip;
   
 - Open the folder you downloaded;
